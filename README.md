@@ -1,2 +1,2 @@
 # clientes-proyectos
-Repositorio donde se alamcenaran todos los clientes de domotikatlx
+Repositorio donde se almacenarán todos los clientes de domotikatlx
